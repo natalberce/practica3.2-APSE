@@ -13,7 +13,7 @@ jobs:
         with:
           registry: ghcr.io
           username: "natalberce"
-          password: ${{ Pepe4567.PAT }}
+          password: ${{ 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.PAT }}
     -
         name: Build and push
         uses: docker/build-push-action@v3

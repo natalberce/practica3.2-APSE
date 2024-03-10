@@ -20,4 +20,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/<<USERNAME>>/log_predict:latest
+          tags: ghcr.io/natalberce/log_predict:latest
